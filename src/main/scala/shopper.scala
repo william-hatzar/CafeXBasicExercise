@@ -2,6 +2,7 @@ object shopper extends App{
 
   def checkout(listItems:List[String]): Double ={
 
+    //Constants  
     var amountofCola = 0
     var amountofCoffee =0
     var amountofCheeseSandwich = 0
